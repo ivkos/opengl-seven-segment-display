@@ -1,4 +1,4 @@
-package com.ivkos.opengl.sevensegmentdisplay.util;
+package com.ivkos.opengl.util;
 
 import static org.lwjgl.opengl.GL11.glPopMatrix;
 import static org.lwjgl.opengl.GL11.glPushMatrix;

@@ -1,4 +1,4 @@
-package com.ivkos.opengl.sevensegmentdisplay.util;
+package com.ivkos.opengl.util;
 
 import org.lwjgl.glfw.GLFWErrorCallback;
 import org.lwjgl.glfw.GLFWVidMode;

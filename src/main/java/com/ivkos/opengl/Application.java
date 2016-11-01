@@ -1,8 +1,8 @@
-package com.ivkos.opengl.sevensegmentdisplay;
+package com.ivkos.opengl;
 
-import com.ivkos.opengl.sevensegmentdisplay.ssd.SevenSegmentDisplayDrawable;
-import com.ivkos.opengl.sevensegmentdisplay.util.GlDrawable;
-import com.ivkos.opengl.sevensegmentdisplay.util.GlWindow;
+import com.ivkos.opengl.sevensegmentdisplay.SevenSegmentDisplayDrawable;
+import com.ivkos.opengl.util.GlDrawable;
+import com.ivkos.opengl.util.GlWindow;
 
 public class Application
 {

@@ -1,4 +1,4 @@
-package com.ivkos.opengl.sevensegmentdisplay.ssd;
+package com.ivkos.opengl.sevensegmentdisplay;
 
 public class SevenSegmentDigit
 {

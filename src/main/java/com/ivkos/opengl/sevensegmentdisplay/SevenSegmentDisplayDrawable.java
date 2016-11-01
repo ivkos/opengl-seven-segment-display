@@ -1,8 +1,8 @@
-package com.ivkos.opengl.sevensegmentdisplay.ssd;
+package com.ivkos.opengl.sevensegmentdisplay;
 
-import com.ivkos.opengl.sevensegmentdisplay.util.GlDrawable;
-import com.ivkos.opengl.sevensegmentdisplay.util.GlGroup;
-import com.ivkos.opengl.sevensegmentdisplay.util.GlMatrix;
+import com.ivkos.opengl.util.GlDrawable;
+import com.ivkos.opengl.util.GlGroup;
+import com.ivkos.opengl.util.GlMatrix;
 
 import java.util.Arrays;
 
